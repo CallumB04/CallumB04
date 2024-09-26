@@ -2,8 +2,6 @@
 
 I am a self taught Software Developer from the United Kingdom, currently searching for an Apprenticeship to begin my career journey!
 
----
-
 ### Skills
 - 🛠 Languages: Python, C++, Javascript, HTML/CSS <br>
 - 🌱 Currently learning: [freeCodeCamp-curriculum](https://github.com/CallumB04/freeCodeCamp-curriculum)

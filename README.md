@@ -1,6 +1,6 @@
 ## Hi, I'm Cal / Callum👋
 
-I am a self taught Software Developer from the United Kingdom, currently searching for an Apprenticeship to begin my career journey!
+I am a self-taught Software Developer from the United Kingdom, currently searching for an Apprenticeship to begin my career journey!
 
 ### Skills
 - 🛠 Languages: Python, C++, Javascript, HTML/CSS <br>

@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Cal / Callum👋
+
+I am a self taught Software Developer from the United Kingdom, currently searching for an Apprenticeship to begin my career journey!
+
+🌱 Currently learning: [freeCodeCamp-curriculum](https://github.com/CallumB04/freeCodeCamp-curriculum)
 
 <!--
 **CallumB04/CallumB04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

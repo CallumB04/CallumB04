@@ -4,7 +4,7 @@ I am a self-taught Software Developer from the United Kingdom, currently searchi
 
 ### Skills
 - 🛠 Languages: Python, C++, Javascript, HTML/CSS <br>
-- 🌱 Currently working on: [Platform-Shooter](https://github.com/CallumB04/Platform-Shooter)
+- 🌱 Currently learning: [freeCodeCamp-curriculum](https://github.com/CallumB04/freeCodeCamp-curriculum)
 
 ---
 

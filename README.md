@@ -11,6 +11,7 @@ I am a self-taught Software Developer from the United Kingdom, currently searchi
 
 ### Contact me
 - 📃 Portfolio Website: [callumb04.github.io](https://callumb04.github.io)
+- ✉ Email: [burgoynecallum04@gmail.com](mailto:burgoynecallum04@gmail.com)
 
 <!--
 **CallumB04/CallumB04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

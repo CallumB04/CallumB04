@@ -5,7 +5,6 @@ I am a self-taught Software Developer from the United Kingdom, currently searchi
 ### Skills
 - 🛠 Languages - Python, C++, Javascript, HTML/CSS <br>
 - ⚙ Other technologies - React, Sass, Docker
-- 🌱 Currently working on - [New Portfolio Website](https://github.com/CallumB04/callumb04.github.io)
 
 ---
 

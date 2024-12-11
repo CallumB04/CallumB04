@@ -3,7 +3,7 @@
 I am a self-taught Software Developer from the United Kingdom, currently searching for an Apprenticeship to begin my career journey!
 
 ### Skills
-- 🛠 Languages - Python, C++, Javascript, HTML/CSS <br>
+- 🛠 Languages - Python, C++, Javascript, Typescript, HTML/CSS <br>
 - ⚙ Other technologies - React, Sass, Docker
 
 ---

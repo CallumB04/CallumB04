@@ -4,7 +4,8 @@ I am a self-taught Software Developer from the United Kingdom, currently searchi
 
 ### Skills
 - 🛠 Languages - Python, C++, Javascript, Typescript, HTML/CSS <br>
-- ⚙ Other technologies - React, Sass, Docker
+- ⚙ Other technologies - React, Sass, Tailwind CSS, Docker
+- 🌱 Currently building - [PlayRates](https://github.com/CallumB04/PlayRates)
 
 ---
 

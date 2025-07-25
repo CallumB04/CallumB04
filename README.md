@@ -1,17 +1,17 @@
 ## Hi, I'm Cal / Callum👋
 
-I am a self-taught Software Developer from the United Kingdom, currently pursuing a Level 4 Apprenticeship in Software Development!
+I'm a self-taught Software Developer from the UK, currently completing a Level 4 Software Development Apprenticeship. I work primarily in Full-Stack Web Development, and in my free time I'm learning Game Development using the Godot Engine!
 
-### Skills
-- 🛠 Languages - Python, C++, Javascript, Typescript, HTML/CSS <br>
-- ⚙ Other technologies - React, Sass, Tailwind CSS, Docker
-- 🌱 Currently learning - Godot/GDScript
+### 🧰 Skills
+- 🛠 **Languages** - Python, C++, JavaScript, TypeScript, HTML/CSS <br>
+- ⚙ **Other technologies** - React, Sass, Tailwind CSS, Docker, n8n, Bubble.io
+- 🌱 **Currently learning** - Godot/GDScript
 
----
+##
 
-### Contact me
-- 📃 Portfolio Website: [callumb04.github.io](https://callumb04.github.io)
-- ✉ Email: [burgoynecallum04@gmail.com](mailto:burgoynecallum04@gmail.com)
+### 📫 Contact me
+- 🌐 **Portfolio Website**: [callumb04.github.io](https://callumb04.github.io)
+- ✉ **Email**: [burgoynecallum04@gmail.com](mailto:burgoynecallum04@gmail.com)
 
 <!--
 **CallumB04/CallumB04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

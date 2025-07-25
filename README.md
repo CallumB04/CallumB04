@@ -1,6 +1,6 @@
 ## Hi, I'm Cal / Callum👋
 
-I'm a self-taught Software Developer from the UK, currently completing a Level 4 Software Development Apprenticeship. I work primarily in Full-Stack Web Development, and in my free time I'm learning Game Development using the Godot Engine!
+I'm a self-taught Software Developer from the UK, currently completing a Level 4 Software Development Apprenticeship. I work primarily in Full-Stack Web Development, but in my free time I'm learning Game Development using the Godot Engine!
 
 ### 🧰 Skills
 - 🛠 **Languages** - Python, C++, JavaScript, TypeScript, HTML/CSS <br>

@@ -5,7 +5,7 @@ I'm a self-taught Software Developer from the UK, currently completing a Level 4
 ### 🧰 Skills
 - 🛠 **Languages** - Python, C++, JavaScript, TypeScript, HTML/CSS <br>
 - ⚙ **Other technologies** - React, Sass, Tailwind CSS, Docker, n8n, Bubble.io, Godot
-- 🌱 **Currently learning** - Go
+- 🌱 **Currently learning** - [Go](https://github.com/CallumB04/go-api-learning)
 
 ##
 

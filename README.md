@@ -1,10 +1,10 @@
 ## Hi, I'm Cal / Callum👋
 
-I'm a self-taught Software Developer from the UK, currently completing a Level 4 Software Development Apprenticeship. I work primarily in Full-Stack Web Development, but also have a keen interest in other areas such as Game Development!
+I'm a Full-Stack Software Developer from the UK, currently completing a Level 4 Software Development Apprenticeship!
 
 ### 🧰 Skills
-- 🛠 **Languages** - Python, C++, JavaScript, TypeScript, HTML/CSS <br>
-- ⚙ **Other technologies** - React, Sass, Tailwind CSS, Docker, n8n, Bubble.io, Godot
+- 🛠 **Languages** - TypeScript/JavaScript, Go, Python, C++, HTML/CSS
+- ⚙ **Other technologies** - React, Tailwind CSS, Docker, n8n, Bubble.io
 - 🌱 **Currently learning** - [Go](https://github.com/CallumB04/online-clothing-shop)
 
 ##

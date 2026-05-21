@@ -3,8 +3,8 @@
 I'm a Full-Stack Software Developer from the UK, currently completing a Level 4 Software Development Apprenticeship!
 
 ### 🧰 Skills
-- 🛠 **Languages**: TypeScript/JavaScript, Go, Python, C++, HTML/CSS
-- ⚙ **Other technologies**: React, Tailwind CSS, Docker, n8n, Bubble.io
+- 🛠 **Languages**: TypeScript/JavaScript, Go, Python, HTML/CSS
+- ⚙ **Other technologies**: React, Tailwind CSS, Docker, PostgreSQL, n8n, Bubble.io
 - 🌱 **Currently building**: [booth](https://github.com/CallumB04/booth)
 
 ##

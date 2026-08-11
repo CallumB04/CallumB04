@@ -1,10 +1,10 @@
 ## Hi, I'm Cal / Callum👋
 
-I'm a Full-Stack Software Developer from the UK, currently completing a Level 4 Software Development Apprenticeship!
+I'm a Full-Stack Software Developer from the UK, working as a Software Developer for [10X Managers](https://10xmanagers.com)!
 
 ### 🧰 Skills
 - 🛠 **Languages**: TypeScript/JavaScript, Go, Python, HTML/CSS
-- ⚙ **Other technologies**: React, Tailwind CSS, Docker, PostgreSQL, n8n, Bubble.io
+- ⚙ **Other technologies**: React, Tailwind CSS, Docker, Supabase, n8n, Bubble.io
 - 🌱 **Currently building**: [booth](https://github.com/CallumB04/booth)
 
 ##

@@ -1,6 +1,6 @@
 ## Hi, I'm Cal / Callum👋
 
-I'm a Full-Stack Software Developer from the UK, working as a Software Developer for [10X Managers](https://10xmanagers.com)!
+I'm a Full-Stack Software Developer @ [10X Managers](https://10xmanagers.com), from the United Kingdom!
 
 ### 🧰 Skills
 - 🛠 **Languages**: TypeScript/JavaScript, Go, Python, HTML/CSS

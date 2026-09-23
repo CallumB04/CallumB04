@@ -5,7 +5,7 @@ I'm a Full-Stack Software Developer from the United Kingdom, working for [10X Ma
 ### 🧰 Skills
 - 🛠 **Languages**: TypeScript/JavaScript, Go, Python, HTML/CSS
 - ⚙ **Other technologies**: React, Tailwind CSS, Docker, Supabase, n8n, Bubble.io
-- 🌱 **Currently building**: [booth](https://github.com/CallumB04/booth)
+- 🌱 **Currently building**: [PlayRates](https://github.com/CallumB04/playrates) and [booth](https://github.com/CallumB04/booth)
 
 ##
 
